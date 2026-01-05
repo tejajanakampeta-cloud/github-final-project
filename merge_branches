@@ -1,0 +1,7 @@
+git checkout main
+Already on 'main'
+
+git merge bug-fix-typo
+Merge made by the 'ort' strategy.
+ README.md | 18 +++++++++++-------
+ 1 file changed, 11 insertions(+), 7 deletions(-)
